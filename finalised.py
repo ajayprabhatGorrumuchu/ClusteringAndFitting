@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
 from sklearn.impute import SimpleImputer
-from sklearn.metrics import silhouette_score
+from sklearn.metrics import silhouette_score 
 from scipy.optimize import curve_fit
 from scipy.stats import t
 
